@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: crawler
+Version: 0.1.0
+Summary: The function will scrape the website https://www.gettyimages.in/photos/aamir-khan-actor and download all 60 images from the website.
+Home-page: https://github.com/yourusername/crawler
+Author: DILEEP
+Author-email: dileeppd45@gmail.com
+Requires-Dist: beautifulsoup4==4.12.3
+Requires-Dist: certifi==2023.11.17
+Requires-Dist: charset-normalizer==3.3.2
+Requires-Dist: idna==3.6
+Requires-Dist: requests==2.31.0
+Requires-Dist: urllib3==2.1.0

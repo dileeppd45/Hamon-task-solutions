@@ -1,0 +1,8 @@
+setup.py
+splitter/__init__.py
+splitter/split.py
+splitter.egg-info/PKG-INFO
+splitter.egg-info/SOURCES.txt
+splitter.egg-info/dependency_links.txt
+splitter.egg-info/entry_points.txt
+splitter.egg-info/top_level.txt

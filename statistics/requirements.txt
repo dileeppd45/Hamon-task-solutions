@@ -1,0 +1,2 @@
+setuptools==69.0.3
+unemployment_statistics @ file:///C:/mywork/statistics/dist/unemployment_statistics-0.1.tar.gz#sha256=18a05e90738216a55c6e1cd81352dcc035c162a839de26272c4ee29e70a224b0

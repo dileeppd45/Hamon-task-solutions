@@ -1,0 +1,8 @@
+setup.py
+statistics/__init__.py
+statistics/statistics.py
+unemployment_statistics.egg-info/PKG-INFO
+unemployment_statistics.egg-info/SOURCES.txt
+unemployment_statistics.egg-info/dependency_links.txt
+unemployment_statistics.egg-info/entry_points.txt
+unemployment_statistics.egg-info/top_level.txt
